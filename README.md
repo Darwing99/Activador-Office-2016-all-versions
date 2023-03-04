@@ -31,11 +31,11 @@ why risk it office isn't licensed properly and you might be a victim of software
 <ul>
 <li>Step 1: Open CMD as Admin</li>
 <li>Step 2: Write the following commands and hit enter</li>
-<li>
+
 <ul>
    <li> A: cd "\Program Files\Common Files\microsoft shared\ClickToRun"</li>
     <li>  B: OfficeC2rclient.exe /update user updatetoversion=16.0.13801.20266</li>
 </ul>
-</li>
+
 <li>Step 3: Disable office update open word or excel or ppt  -   Goto Files - Account -  Update Options - Disable Updates</li>
 </u>
