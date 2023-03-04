@@ -23,3 +23,19 @@ pause
 
 
 <p>Ejecute <b>script.cmd</b> como administrador y con el antivirus desactivado.</p>
+
+
+There's a problem with your office license 
+why risk it office isn't licensed properly and you might be a victim of software counterfeiting
+<h4>SOLUTION:</h4> 
+<ul>
+<li>Step 1: Open CMD as Admin</li>
+<li>Step 2: Write the following commands and hit enter</li>
+<li>
+<ul>
+   <li> A: cd "\Program Files\Common Files\microsoft shared\ClickToRun"</li>
+    <li>  B: OfficeC2rclient.exe /update user updatetoversion=16.0.13801.20266</li>
+</ul>
+</li>
+<li>Step 3: Disable office update open word or excel or ppt  -   Goto Files - Account -  Update Options - Disable Updates</li>
+</u>
