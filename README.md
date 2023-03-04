@@ -20,3 +20,6 @@ echo.&echo =====================================================================
 pause
 
 ```
+
+
+<p>Ejecute <b>script.cmd</b> como administrador y con el antivirus desactivado.</p>
